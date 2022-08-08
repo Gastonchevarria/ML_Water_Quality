@@ -1,4 +1,4 @@
-# ML_Water_Quality
+# ML_Water_Quality_Prediction
 
 Author: Gaston Chevarria
 
